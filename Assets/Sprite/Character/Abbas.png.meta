@@ -1,0 +1,89 @@
+fileFormatVersion: 2
+guid: ca969a31bb7c1aa44bdf3e0d835e9fc9
+timeCreated: 1469572088
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Abbas_0
+    21300002: Abbas_1
+    21300004: Bayangan_Abbas_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Abbas_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1174
+        width: 863
+        height: 370
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Abbas_1
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 850
+        width: 863
+        height: 1033
+      alignment: 9
+      pivot: {x: .500000119, y: .479084134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bayangan_Abbas_0
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 189
+        width: 861
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

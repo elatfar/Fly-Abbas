@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: c90d4ea9387a56949a011bc951de44d1
+timeCreated: 1469572603
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Latar_0
+    21300002: Rumah_0
+    21300004: Rumah_1
+    21300006: Tornado_0
+    21300008: Arus_Cepat_0
+    21300010: Ground_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Latar_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1220
+        width: 2880
+        height: 1792
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rumah_0
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 1799
+        width: 1016
+        height: 1159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rumah_1
+      rect:
+        serializedVersion: 2
+        x: 4595
+        y: 1448
+        width: 1290
+        height: 1526
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tornado_0
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 217
+        width: 1259
+        height: 1423
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arus_Cepat_0
+      rect:
+        serializedVersion: 2
+        x: 4874
+        y: 801
+        width: 645
+        height: 459
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ground_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 752
+        width: 2880
+        height: 303
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

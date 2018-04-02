@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: eb2d54f46fb778e45809ba7166ddd60d
+timeCreated: 1469573430
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Loading_0
+    21300002: Retry_0
+    21300004: Home_1
+    21300006: Resume_0
+    21300008: Loading_1
+    21300010: Home_0
+    21300012: Next_0
+    21300014: Loading_2
+    21300016: Continue_0
+    21300018: Play_0
+    21300020: Abbas_Char_0
+    21300022: Lock_Char_0
+    21300024: Change_0
+    21300026: Setting_0
+    21300028: Selected_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Loading_0
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2468
+        width: 954
+        height: 222
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retry_0
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 2383
+        width: 337
+        height: 339
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Home_1
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 2391
+        width: 337
+        height: 337
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Resume_0
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 2423
+        width: 772
+        height: 272
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Loading_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2204
+        width: 940
+        height: 219
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Home_0
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1936
+        width: 337
+        height: 339
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Next_0
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 1999
+        width: 723
+        height: 223
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Loading_2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1928
+        width: 933
+        height: 222
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Continue_0
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1509
+        width: 888
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Play_0
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 765
+        width: 506
+        height: 506
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Abbas_Char_0
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 319
+        width: 740
+        height: 740
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lock_Char_0
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 313
+        width: 740
+        height: 740
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Change_0
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 315
+        width: 380
+        height: 380
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Setting_0
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 315
+        width: 379
+        height: 378
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Selected_0
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 343
+        width: 281
+        height: 279
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
